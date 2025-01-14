@@ -4,6 +4,11 @@
   "version": "1.0.0",
   "description": "",
   "type": "module",
+  "exports": {
+    ".": {
+      "import": "./src/index.js"
+    }
+  },
   "scripts": {},
   "repository": {
     "type": "git",
