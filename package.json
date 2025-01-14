@@ -1,0 +1,26 @@
+{
+  "private": true,
+  "name": "@xofeulb/bluefox-domgate",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xoFeulB/BlueFoxDomGate.git"
+  },
+  "keywords": [
+    "BlueFox"
+  ],
+  "author": "BlueFoxEnterprise",
+  "license": "MIT License",
+  "bugs": {
+    "url": "https://github.com/xoFeulB/BlueFoxDomGate/issues"
+  },
+  "homepage": "https://github.com/xoFeulB/BlueFoxDomGate",
+  "dependencies": {
+    "html-minifier": "^4.0.0",
+    "jsdom": "^24.1.0",
+    "prettier": "^3.3.2"
+  }
+}
