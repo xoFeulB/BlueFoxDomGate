@@ -13,9 +13,9 @@ Options:
   index     path to index.html                                    [string]
   root      gate src root                                         [string]
   out       path to <output>.html       [string] [default: "./index.html"]
-  depth     path to output directory             [number] [default: 10000]
+  depth     directory depth                      [number] [default: 10000]
   prettier  enable prettier                      [boolean] [default: true]
-  minify    enable minify                        [boolean] [default: false]
+  minify    enable minify                       [boolean] [default: false]
 ```
 
 ```javascript
